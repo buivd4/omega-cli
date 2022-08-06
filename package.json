@@ -1,0 +1,27 @@
+{
+  "name": "omega-cli",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Create Command Line Interface (CLI) for your JS project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buivd4/omega-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "buivd4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buivd4/omega-cli/issues"
+  },
+  "homepage": "https://github.com/buivd4/omega-cli#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
