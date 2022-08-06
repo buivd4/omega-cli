@@ -1,8 +1,18 @@
 # Omega-CLI
-Create Command Line Interface (CLI) for your JS project.
 
-**Author**: buivd4<br/>
-**License**: MIT License
+<div>
+   <span>
+   <img width=70 src="https://cdn-icons.flaticon.com/png/512/4114/premium/4114258.png?token=exp=1659813283~hmac=8c7b20a8f6296b2e95cc35ed8ed3e075"></td>
+   </span>
+   <span>
+    <div>
+       <h4>Create Command Line Interface (CLI) for your JS project.</h4>
+       <b>Author</b>: buivd4
+       <br/>
+       <b>License</b>: MIT License
+     </div>
+    </span>
+</div>
 
 ## Installation
 Install from source code:
