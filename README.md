@@ -2,7 +2,7 @@
 
 <div>
    <span>
-   <img width=70 src="https://cdn-icons.flaticon.com/png/512/4114/premium/4114258.png?token=exp=1659813283~hmac=8c7b20a8f6296b2e95cc35ed8ed3e075"></td>
+   <img width=70 src="./doc/img/icon.png"></td>
    </span>
    <span>
     <div>
@@ -28,9 +28,9 @@ import * as omegacli from 'omega-cli';
 ```
 
 ## Features
-* Declaratively create CLI program with just a few lines of code.
+* Declaratively create a CLI program with just a few lines of code.
 * Support parameter auto-convert (Numeric, Boolean, String)
-* Support parameter validate (bound, length, regex, etc) or you can easily define your own
+* Support default parameter validations (bound, length, regex) or you can easily define your own
 
 **DISCLAIMER**: 
 
